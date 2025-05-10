@@ -1,2 +1,1 @@
-Aula Git - Bash
-Aluno - Davi da Silva Ribeiro
+Aula Git 
